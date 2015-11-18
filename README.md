@@ -97,4 +97,4 @@ List the current user in `app/views/users/show.html.erb`:
 ```html
 <p>Username: <%= @user.email %></p>
 ```
-## [Continue](https://github.com/ga-dc/friending_in_rails)
+## [Continue](https://github.com/ga-dc/curriculum/tree/master/06-project-2/self_referential_associations)
